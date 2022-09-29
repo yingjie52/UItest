@@ -1,0 +1,8 @@
+INFO     2022-09-20 23:30:34 [core.data:17]  : 文件file=WindowsPath('D:/AAxiangmu/uiautomator2/testcases/test_app.xlsx'),包含了1sheet
+INFO     2022-09-20 23:30:34 [core.data:35]  : Sheet 自动化大师,包含了1个用例
+INFO     2022-09-20 23:30:34 [core.case:47]  : 生成了测试用例自动化大师
+INFO     2022-09-20 23:30:34 [test_excel:21]  : 所有excel文件测试用例生成成功
+WARNING  2022-09-20 23:30:34 [core.case:27]  : 测试用例开始执行:{suite_name}.{name}
+INFO     2022-09-20 23:30:34 [core.case:33]  : 执行关键字：key='start_app',args=['com.automaster.practice.through']
+INFO     2022-09-20 23:30:35 [core.case:33]  : 执行关键字：key='click',args=['com.automaster.practice.through:id/btn_next']
+INFO     2022-09-20 23:30:35 [core.case:42]  : 测试用例执行完毕:自动化大师.进入首页:测试通过

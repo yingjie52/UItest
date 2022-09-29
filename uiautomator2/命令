@@ -1,0 +1,4 @@
+1.adb devices 设备序列号
+2.uiautomator2 current  查看包名
+3.python -m weditor 启动服务器
+4.pip install -r requirements.txt -U

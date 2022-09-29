@@ -1,0 +1,4 @@
+WARNING  core.case:case.py:27 测试用例开始执行:{suite_name}.{name}
+INFO     core.case:case.py:33 执行关键字：key='start_app',args=['com.automaster.practice.through']
+INFO     core.case:case.py:33 执行关键字：key='click',args=['com.automaster.practice.through:id/btn_next']
+INFO     core.case:case.py:42 测试用例执行完毕:自动化大师.进入首页:测试通过
